@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>toyplane.obj</file>
+        <file>trefoil.obj</file>
+        <file>shaders/shadowmap.frag</file>
+        <file>shaders/shadowmap.vert</file>
+        <file>shaders/preview.vert</file>
+        <file>shaders/preview.frag</file>
+        <file>thisisfine.jpg</file>
+        <file>shaders/postprocess.vert</file>
+        <file>shaders/postprocess.frag</file>
+    </qresource>
+</RCC>
